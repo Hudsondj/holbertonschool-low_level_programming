@@ -1,4 +1,4 @@
-#include <studio.sh
+#include <studio.sh>
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
