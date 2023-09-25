@@ -1,2 +1,2 @@
 #!/bin/bash
-Test
+gcc -E $CFILE -o interm
