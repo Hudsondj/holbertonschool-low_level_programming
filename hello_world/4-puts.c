@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- *  * function_name - Short description, single line
- *   (* a blank line
- *    * Description: Longer description of the function)?
- *    (* section header: Section description)*
- *     * Return: sucess
-*/
+ *  * main - Entry point
+ *   * 
+ *    * Description: 'the program's description'
+ *      * 
+ *       * Return: Always 0 (Success)
+ */
 	int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
